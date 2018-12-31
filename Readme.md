@@ -1,4 +1,4 @@
-![Myyna, pintrest clone](http://www.myyna.com/wp-content/uploads/2014/02/band_logo11.png)
+### Pineyana
 
 #Install Node.js version 0.8 or above (stable version preferred)
 
